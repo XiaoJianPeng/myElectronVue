@@ -1,2 +1,2 @@
 # myElectronVue
-electron+vue 项目实战
+electron+vue
